@@ -1,0 +1,12 @@
+# 忽略備份與編譯檔案
+*.log
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
+
+# 忽略 VSCode 設定檔
+.vscode/
+
+# 不追蹤 node_modules（若使用前端框架）
+node_modules/
